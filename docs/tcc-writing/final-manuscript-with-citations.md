@@ -1,15 +1,4 @@
-# final-manuscript-with-citations.md
-
-> **Marketing Research OS (MROS)**
-> Telex Soluções Auditivas — Final Manuscript with Citations
-> Version: 1.0
-> Status: Advisor Draft
-> Last Updated: July 2026
-
----
-
 # Redução de Atrito na Jornada do Cliente como Estratégia de Aumento de Conversão: um estudo de caso na Telex Soluções Auditivas
-
 ---
 
 # Resumo
@@ -1158,8 +1147,6 @@ O caso Telex reforça que tecnologia e automação podem ampliar escala e veloci
 
 # Referências
 
-> **Nota de validação:** esta lista deve ser conferida antes da entrega final, especialmente edição, cidade, editora, páginas, DOI, links e data de acesso, conforme o manual institucional e as normas ABNT aplicáveis.
-
 BUTTLE, F.; MAKLAN, S. **Customer Relationship Management: concepts and technologies**. 4. ed. Abingdon: Routledge, 2019.
 
 CHAFFEY, D.; ELLIS-CHADWICK, F. **Digital Marketing**. 7. ed. Harlow: Pearson, 2019.
@@ -1204,10 +1191,6 @@ ZEITHAML, V. A.; BITNER, M. J.; GREMLER, D. D. **Services Marketing: integrating
 
 # Apêndices
 
-> **Nota:** incluir somente apêndices autorizados, anonimizados e relevantes.
-
-Sugestão de apêndices:
-
 ```text id="al2o8n"
 Apêndice A — Fluxo Operacional de 2024
 Apêndice B — Fluxo Operacional de 2025
@@ -1215,38 +1198,3 @@ Apêndice C — Regras de Negócio
 Apêndice D — Dicionário de Dados
 Apêndice E — Fórmulas de Cálculo dos Indicadores
 Apêndice F — Capturas de Tela do Fluxo de Automação, se autorizadas
-```
-
----
-
-# Status da Versão
-
-Esta versão do manuscrito contém:
-
-```text id="fwvpab"
-[x] Citações formais inseridas no texto.
-[x] Notas internas de citation/advisor removidas.
-[x] Proposições analíticas adotadas em vez de hipóteses.
-[x] Linguagem causal suavizada.
-[x] Dados internos tratados como fonte operacional.
-[x] Tabelas com fontes sugeridas.
-[x] Referências preliminares incluídas.
-```
-
-Ainda falta validar:
-
-```text id="j8k2je"
-[ ] Referências em ABNT conforme manual institucional.
-[ ] Período exato dos dados 2024 e 2025.
-[ ] Autorização para uso do nome Telex.
-[ ] Autorização para uso dos dados internos.
-[ ] Autorização para uso dos custos operacionais.
-[ ] Autorização para citar ferramentas e fluxos.
-[ ] Formatação final em modelo institucional.
-[ ] Revisão do orientador.
-```
-
----
-
-**End of Document**
-
